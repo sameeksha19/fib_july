@@ -1,2 +1,2 @@
 fibonacci series,
-init
+sta
